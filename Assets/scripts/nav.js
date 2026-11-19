@@ -300,7 +300,12 @@ document.write(`
 <li class="dropdown">
 <a href="javascript:void(0)" class="dropbtn">Material Escrito<br>Written Material</a>
 <div class="dropdown-content">
-<a href="scores.html">Partituras<br>Scores</a>
+<a href="scoresfull.html">Partituras de teatro musical<br>Musical Theatre Scores</a>
+<a href="scorespv.html">Partituras P/V<br>P/V Scores</a>
+<a href="scoresband.html">Partes orquestales<br>Orchestra Parts</a>
+<a href="scoresselec.html">Selecciones teatrales<br>Theatre Selections</a>
+<a href="scoressingle.html">Sola canción<br>Single Song</a>
+<a href="scoresanth.html">Antologías<br>Anthologies</a>
 <a href="libretti.html">Libretos<br>Libretti</a>
 <a href="scores2.html">Partituras Opéra<br>Opera Scores</a>
 <a href="libretti2.html">Libretos Opéra<br>Opera Libretti</a>
