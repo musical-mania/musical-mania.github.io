@@ -2,7 +2,7 @@ document.write(`
 
 <ul>
 
-<div><li><a href="main.html"><img src="images/misc/home.png" height="25px"></li></a></div>
+<div><li><a href="main.html"><img src="images/misc/home.png" height="20px"></li></a></div>
 
 <div class="subnav">
 <a href="javascript:void(0)" class="dropbtn">Álbumes del elenco<br>Cast Albums</a>
@@ -199,9 +199,13 @@ document.write(`
 
 <li><a href="demo.html">Grabaciones Demo<br>Demo Recordings</a></li>
 
+<li><a href="soundtracks.html">Bandas Sonoras<br>Soundtracks</a></li>
+
+<li><a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a></li>
+
 
 <li class="dropdown">
-<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="25px"></a>
+<a href="javascript:void(0)" class="dropbtn"><img src="images/misc/disney.png" height="20px"></a>
 <div class="dropdown-content">
 <a href="disneymovie.html">Bandas Sonoras<br>Soundtracks</a>
 <a href="disneycast.html">Álbumes del elenco<br>Cast Albums</a>
@@ -212,8 +216,8 @@ document.write(`
 <li class="dropdown">
 <a href="javascript:void(0)" class="dropbtn">Audio relacionado<br>Related Audio</a>
 <div class="dropdown-content">
-<a href="backing.html">Pistas de acompañamiento<br>Backing Tracks</a>
-<a href="soundtracks.html">Bandas Sonoras<br>Soundtracks</a>
+
+
 <a href="vocalists.html">Artistas de Teatro<br>Theatre Artists</a>
 <a href="compilations.html">Compilaciónes<br>Compilations</a>
 </div>
@@ -315,7 +319,7 @@ document.write(`
 
 <li><a href="notes.html">Notas y guía<br>Notes & Guidelines</a></li>
 <li><a href="wants.html">Lista de deseos<br>Wants List</a></li>
-<li><a href="mailto:musicalmania67@gmail.com?subject=Trade Enquiry"><img src="images/misc/mail.png"></a></li>
+<li><a href="mailto:musicalmania67@gmail.com?subject=Trade Enquiry"><img src="images/misc/mail.png" height="20px"></a></li>
 </ul>
 
 `);
